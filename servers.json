@@ -1,0 +1,6 @@
+{
+    "servers": [
+        {"name": "Google", "url": "http://www.google.co.jp"},
+        {"name": "Yahoo", "url": "http://www.yahoo.co.jp"}
+    ]
+}

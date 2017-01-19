@@ -1,0 +1,6 @@
+version: "2.0"
+services:
+  python:
+    build: .
+    volumes:
+      - ./work:/home/dev/work
